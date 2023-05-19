@@ -56,17 +56,23 @@ body{
           .book{
             border: 2px solid red;
             background-color: bisque;
-            margin:-315px 20px 20px 250px;
-            height: 310px;
-            width: 1000px;
+            margin:-320px 20px 20px 250px;
+            height: 298px;
+            width: 980px;
+            line-height: 25px;
+            text-align: justify;
+            padding: 10px;
          
           }
           .scroll {
             float: right;
             margin-top: -330px;
             border: 2px solid red;
-            margin: -333px 20px 20px 20px;   
-            display:inline;        
+            margin: -341px 20px 20px 20px;   
+            display:inline; 
+            width: 290px;  
+            
+                 
           
             
           }
