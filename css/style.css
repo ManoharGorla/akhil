@@ -1,0 +1,81 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+    background-color: rgb(241, 245, 245);
+    width: 100%;
+    height: 100vh;
+}
+#logo {
+    margin:23px 198px 10px 32px ;
+
+}
+#banner{
+    float: right;
+    margin: -158px 2px 3px 10px;
+}
+
+#logo img
+        {
+            border-radius: 70px;
+            border: 4px solid greenyellow;
+        }
+ #navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color:green;
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 15px 120px;
+            text-decoration: none;
+          }
+          
+          li a:hover {
+            background-color: #111;
+          }
+          .akhil{
+            border: 5px solid red;
+            margin-right: 85%;
+            padding-top: 20;
+            margin-top: 20;
+            text-align: center;
+            background-color: lightgreen;
+            
+          }
+          .book{
+            border: 2px solid red;
+            background-color: bisque;
+            margin:-315px 20px 20px 250px;
+            height: 310px;
+            width: 1000px;
+         
+          }
+          .scroll {
+            float: right;
+            margin-top: -330px;
+            border: 2px solid red;
+            margin: -333px 20px 20px 20px;   
+            display:inline;        
+          
+            
+          }
+          
+
+          .HASH{
+                text-align: center;
+                font-size: 100;
+                margin-top: 20;
+                color:blueviolet;
+                border: 5px solid green;
+          }
